@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Şımarık",
+    "artist": "Tarkan",
+    "artwork": "https://upload.wikimedia.org/wikipedia/en/9/90/Simarik.jpg",
+    "url": "https://www.youtube.com/watch?v=FkKShvCPrRc",
+    "id": 1
+  },
+  {
+    "title": "Araba",
+    "artist": "Mustafa Sandal",
+    "artwork": "2wCEAAoHCBIVERgVFRIYGBgYHBgYGBgaGhoZGhgYGBgZGRgaGRgcIS4lHB4rIRoYJjgmKy8xNTU1GiQ7QDs0Py40NTEBDAwMEA8QHhISHjQsJCs0NDYxPTQ0NTU0NTQ0ND80NDQ0NDQ0ND80OjQ0NDQ0NDQ0MTE0NDQxNDQ0NDQ",
+    "url": "https://www.youtube.com/watch?v=-lcfABgHKfs",
+    "id": 2
+  },
+  {
+    "title": "Nu-i Roman Ca Ardeleanu",
+    "artist": "Aurel Tămaș",
+    "artwork": "https://i.ytimg.com/vi/d2f1jJt4QXM/maxresdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=OypXXPQ1-io",
+    "id": 3
+  },
+  {
+    "title": "Made In Romania",
+    "artist": "Ionut Cercel",
+    "artwork": "https://i.scdn.co/image/ab67616d0000b27354c50519568096ee5d4030cd",
+    "url": "https://www.youtube.com/watch?v=GOA7ZXVGOtc",
+    "id": 4
+  },
+  {
+    "title": "No Se Va",
+    "artist": "Morat",
+    "artwork": "https://i1.sndcdn.com/artworks-yheD5RJSM31EBP8Z-M5yVQw-t500x500.jpg",
+    "url": "https://www.youtube.com/watch?v=USDX0X-d588",
+    "id": 5
+  },
+  {
+    "title": "No Termino",
+    "artist": "Tarkan",
+    "artwork": "https://i.scdn.co/image/ab67616d0000b273f8ef194ede08e21ef4a7edce",
+    "url": "https://www.youtube.com/watch?v=21VZl7Gs1F0",
+    "id": 6
+  } 
+]
